@@ -1,0 +1,12 @@
+Script started on Fri 03 Mar 2017 06:28:13 PM EST
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ 
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ as -32 loop.s -o loop.o
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ ld -m elf_i386 loop.o -o loop
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ ./loop
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ echo $?
+223
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ 
+]0;hkocabas@js-156-80: ~/lab6/34hkocabas@js-156-80:~/lab6/34$ exit
+exit
+
+Script done on Fri 03 Mar 2017 06:29:02 PM EST

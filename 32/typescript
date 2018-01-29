@@ -1,0 +1,9 @@
+Script started on Fri 03 Mar 2017 06:15:49 PM EST
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ as -32 indirect.s -o indirect.s [K[Ko
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ ld -m elf_i386 indirect.[K.o -o indirect
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ ./indirect
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ echo $?
+225
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ 
+]0;hkocabas@js-156-80: ~/lab6/32hkocabas@js-156-80:~/lab6/32$ exit
+Script done on Fri 03 Mar 2017 06:16:41 PM EST

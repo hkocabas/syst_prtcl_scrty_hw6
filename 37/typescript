@@ -1,0 +1,12 @@
+Script started on Fri 03 Mar 2017 06:39:51 PM EST
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ 
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ cd[K[Kcd[K[Kas -32 factorial.s -o factorial.s [K[Ko
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ ld -m elf_i386 factorial.o -o factorial.[K
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ ./factorial [K
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ echo $?
+120
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ 
+]0;hkocabas@js-156-80: ~/lab6/37hkocabas@js-156-80:~/lab6/37$ exit
+exit
+
+Script done on Fri 03 Mar 2017 06:40:43 PM EST

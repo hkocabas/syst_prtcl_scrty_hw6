@@ -1,0 +1,8 @@
+Script started on Fri 03 Mar 2017 06:11:32 PM EST
+]0;hkocabas@js-156-80: ~/lab6/31hkocabas@js-156-80:~/lab6/31$ as -32 test.s -o test.o
+]0;hkocabas@js-156-80: ~/lab6/31hkocabas@js-156-80:~/lab6/31$ ld -m elf_i386 test.o -o test
+]0;hkocabas@js-156-80: ~/lab6/31hkocabas@js-156-80:~/lab6/31$ ./test
+]0;hkocabas@js-156-80: ~/lab6/31hkocabas@js-156-80:~/lab6/31$ echo $?
+222
+]0;hkocabas@js-156-80: ~/lab6/31hkocabas@js-156-80:~/lab6/31$ exit
+Script done on Fri 03 Mar 2017 06:12:35 PM EST

@@ -1,0 +1,9 @@
+Script started on Fri 03 Mar 2017 06:30:18 PM EST
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ as -32 control.s -o control.s [K[Ko[C[C[C[C[C[C[C[C[C[C
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ ld -m elf_i386 control.o -o control.[K
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ ./control [K
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ echo %[K$?
+0
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ 
+]0;hkocabas@js-156-80: ~/lab6/35hkocabas@js-156-80:~/lab6/35$ exit
+Script done on Fri 03 Mar 2017 06:31:25 PM EST

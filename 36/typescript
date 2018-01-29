@@ -1,0 +1,8 @@
+Script started on Fri 03 Mar 2017 06:37:54 PM EST
+]0;hkocabas@js-156-80: ~/lab6/36hkocabas@js-156-80:~/lab6/36$ as -32 power.s -o poe[Kwer.o
+]0;hkocabas@js-156-80: ~/lab6/36hkocabas@js-156-80:~/lab6/36$ ld -32[K[K[K-m elf_i386 power.o -o power
+]0;hkocabas@js-156-80: ~/lab6/36hkocabas@js-156-80:~/lab6/36$ ./power
+]0;hkocabas@js-156-80: ~/lab6/36hkocabas@js-156-80:~/lab6/36$ echo $?
+224
+]0;hkocabas@js-156-80: ~/lab6/36hkocabas@js-156-80:~/lab6/36$ ls[K[Kexit
+Script done on Fri 03 Mar 2017 06:39:06 PM EST
